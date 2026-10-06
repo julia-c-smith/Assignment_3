@@ -6,30 +6,33 @@ editor: visual
 
 ## Organizations
 
-* CRKN
-* Digital Research Alliance of Canada
-* DataCite Canada Consortium
-* Borealis
-* CrossRef
-* LAC
-* CPIDAC
+- CRKN
+- Digital Research Alliance of Canada
+- DataCite Canada Consortium
+- Borealis
+- CrossRef
+- LAC
+- CPIDAC
 
 ## Persistent Identifiers
 
-* PID
-* ORCID
-* DOI
-* ISSN
+- PID
+- ORCID
+- DOI
+- ISSN
 
 ## Concepts
-* Open Access
-* Open Source
-* Metadata
-* License (as a verb, providing access to ejournals, databases, etc)
-* Creative Commons License
-* Trustworthy Digital Repository (TDR)
-* COUNTER usage statistics
-* Peer review
-* SAFES Data
-* FAIR Principles
-* CARE Principles
+
+- Open Access
+  - "Ensures that research publications are freely and openly available online, enabling widespread access to evidence-based knowledge. Any use or reuse of open access content is still subject to full and proper attribution and will have an appropriate license" - <https://www.crkn-rcdr.ca/en/open-access>
+- Open Source
+- Metadata
+- License (as a verb, providing access to ejournals, databases, etc)
+- Creative Commons License
+  - Open license run by a non-profit group that allows sharing of knowledge in the public domain. <https://creativecommons.org/what-we-do/>
+- Trustworthy Digital Repository (TDR)
+- COUNTER usage statistics
+- Peer review
+- SAFES Data
+- FAIR Principles
+- CARE Principles
